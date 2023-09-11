@@ -1,5 +1,5 @@
 # spring-cinemaroom-api
-Basic cinema room RESTful API made using SpringBoot, SOLID principles and layered architecture as a learning project.
+Basic cinema room RESTful API made using SpringBoot, SOLID principles and layered architecture.
 
 # Usage
 
